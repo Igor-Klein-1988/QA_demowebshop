@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ait.qa28.demowebshop.AddToCartTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-06T19:54:50" hostname="MBP-Igor" time="15.214">
+  <properties/>
+  <testcase name="checkAddProductInCartPositiveTest" classname="com.ait.qa28.demowebshop.AddToCartTests" time="1.479"/>
+  <testcase name="checkMessageProductAddedPositiveTest" classname="com.ait.qa28.demowebshop.AddToCartTests" time="1.874"/>
+  <system-out><![CDATA[20:54:49.273 [Test worker] INFO  com.ait.qa28.demowebshop.TestBase -- Start test checkAddProductInCartPositiveTest with data: []
+20:54:52.043 [Test worker] INFO  com.ait.qa28.demowebshop.TestBase -- PASSED: checkAddProductInCartPositiveTest
+20:54:52.043 [Test worker] INFO  com.ait.qa28.demowebshop.TestBase -- ============================
+20:54:52.044 [Test worker] INFO  com.ait.qa28.demowebshop.TestBase -- Start test checkMessageProductAddedPositiveTest with data: []
+ TEXT: The product has been added to your shopping cart
+20:55:05.778 [Test worker] INFO  com.ait.qa28.demowebshop.TestBase -- PASSED: checkMessageProductAddedPositiveTest
+20:55:05.778 [Test worker] INFO  com.ait.qa28.demowebshop.TestBase -- ============================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

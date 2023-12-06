@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ait.qa28.demowebshop.HomePageTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-06T19:54:48" hostname="MBP-Igor" time="1.027">
+  <properties/>
+  <testcase name="isHomeComponentPresentTest" classname="com.ait.qa28.demowebshop.HomePageTests" time="1.027"/>
+  <system-out><![CDATA[20:54:48.239 [Test worker] INFO  com.ait.qa28.demowebshop.TestBase -- Start test isHomeComponentPresentTest with data: []
+20:54:49.271 [Test worker] INFO  com.ait.qa28.demowebshop.TestBase -- PASSED: isHomeComponentPresentTest
+20:54:49.271 [Test worker] INFO  com.ait.qa28.demowebshop.TestBase -- ============================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
